@@ -2,8 +2,7 @@
   "name": "ci-cd",
   "type": "module",
   "scripts": {
-    "dev": "tsx watch src/index.ts",
-    "build": "pkgroll"
+    "dev": "tsx watch src/index.ts"
   },
   "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",
