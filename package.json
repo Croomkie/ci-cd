@@ -15,10 +15,11 @@
   "dependencies": {
     "@hono/node-server": "^1.13.8",
     "hono": "^4.6.20",
-    "pkgroll": "^1.0.1"
+    "pkgroll": "^2.5.1"
   },
   "devDependencies": {
     "@types/node": "^20.11.17",
-    "tsx": "^4.7.1"
+    "tsx": "^4.7.1",
+    "typescript": "^5.7.2"
   }
 }
